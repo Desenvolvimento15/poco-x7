@@ -4,6 +4,8 @@
  box-sizing: border-box;
 }
 
+video{width: 100%; height: 100%;}
+
 .div1.fly-birds-page_3829896243 {
   align-items: flex-start;
   flex-direction: column;
